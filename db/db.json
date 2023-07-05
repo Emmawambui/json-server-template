@@ -1,52 +1,141 @@
 {
-  "toys": [
+  "countries": [
     {
-      "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "id": "1",
+      "name": "Kenya",
+      "Official_language":  "English",
+      "currency": "ksh",
+      "population": 40000000,
+      "capital_city": "Nairobi",
+      "car_side": "Left Hand Side",
+      "flag": "https://cdn.webshopapp.com/shops/94414/files/52385976/flag-of-kenya.jpg",
+      "capital_city_pic": "https://rb.gy/odlks",
+      "gallery":[
+         "https://unsplash.com/photos/kjOBqwMUnWw",
+         "https://unsplash.com/photos/dsFrAJUrUuU",
+         "https://unsplash.com/photos/SODYDpEy0Cw",
+         "https://unsplash.com/photos/2G1COvn4lKg",
+         "https://unsplash.com/photos/o4VlOVm6tGM",
+         "https://unsplash.com/photos/EtH1GE9qaDg",
+         "https://unsplash.com/photos/mfX814jtyro",
+         "https://unsplash.com/photos/3QPNiZ_Nqjs",
+         "https://unsplash.com/photos/rSm3wEA2P4o",
+         "https://unsplash.com/photos/l4A5E42LCDw",
+         "https://unsplash.com/photos/IIdBO9jzHNo"
+      ]
     },
-    {
-      "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+   {
+      "id": "2",
+      "name": "Uganda",
+      "Official_language": "English",
+      "currency": "Ugx",
+      "population": 45850000,
+      "capital_city": "Kampala",
+      "car_side": "Left Hand Side",
+      "flag": "https://www.shutterstock.com/image-illustration/render-republic-uganda-flag-perfect-260nw-1938530464.jpg",
+      "capital_city_pic": "https://rb.gy/grf96",
+      "gallery":[
+          "https://images.unsplash.com/photo-1581918629062-2b6cfdd04060?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2861&q=80",
+          "https://unsplash.com/photos/sMjVNtvYkD0",
+          "https://unsplash.com/photos/j9kIRsK8jqU",
+          "https://unsplash.com/photos/cYPbGVr3njE",
+          "https://unsplash.com/photos/n9buHOITydY",
+          "https://unsplash.com/photos/cs8Xa4t1hvc",
+          "https://unsplash.com/photos/lii0uaz8Ieo"
+      ]
     },
-    {
-      "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
-    },
-    {
-      "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
-    },
-    {
-      "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
-    },
-    {
-      "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
-    },
-    {
-      "id": 7,
-      "name": "Hamm!!!!",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
-    },
-    {
-      "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
-    }
+   {
+      "id": "3",
+      "name": "Tanzania",
+      "Official_language": "kiswahili",
+      "currency": "Tsh",
+      "population": 50100000,
+      "capital_city": "Dodoma",
+      "car_side": "Left Hand Side",
+      "flag":"https://rb.gy/pzkum",
+      "capital_city_pic": "https://rb.gy/q0kbn",
+      "gallery":[
+         "https://unsplash.com/s/photos/tanzania",
+         "https://unsplash.com/photos/B8QoatPKAJg",
+         "https://unsplash.com/photos/lZLgqIiFHSw",
+         "https://unsplash.com/photos/hKTMK12JHvM",
+         "https://unsplash.com/photos/3xJ9AeCwjTQ",
+         "https://unsplash.com/photos/UZalS3t9uPU",
+         "https://unsplash.com/photos/l7OSismNsyM",
+         "https://unsplash.com/photos/fNlQ5Gpq1kM"
+       ]
+   },
+   {
+      "id": "4",
+      "name": "Rwanda",
+      "Official_language": "Kinyarwanda", 
+      "currency": "Rwf",
+      "population": 13460000,
+      "capital_city": "Kigali",
+      "car_side": "Right Hand Side",
+      "flag": "https://cdn.pixabay.com/photo/2012/04/10/23/18/rwanda-26944_1280.png",
+      "capital_city_pic": "https://rb.gy/yk6e2",
+      "gallery":[
+         "https://unsplash.com/photos/Wtcs0CVXor8",
+         "https://unsplash.com/photos/bVMnhNOfFCo",
+         "https://unsplash.com/photos/riqHVFDBt-8",
+         "https://unsplash.com/photos/ggtFONGaWTo",
+         "https://unsplash.com/photos/Ymvodp-2JuE",
+         "https://unsplash.com/photos/pJGA1LYp_lc",
+         "https://unsplash.com/photos/M4L0MgfncCY"
+      ]
+   },
+   {
+      "id": "5",
+      "name": "South Africa",
+      "Official_language": "English", 
+      "currency": "Rand",
+      "populoation": 8000000000,
+      "capital_city": "Cape Town",
+      "car_side": "Left Hand",
+      "flag": "https://img.freepik.com/premium-photo/flag-south-africa_406939-4584.jpg",
+      "capital_city_pic": "https://rb.gy/1vtbg",
+      "gallery":[
+         "https://unsplash.com/photos/RAAXmcYdoIg",
+         "https://unsplash.com/photos/YYWro5qSxAU",
+         "https://unsplash.com/photos/0Us8EncrE2E",
+         "https://unsplash.com/photos/kpdWINVf3JI",
+         "https://unsplash.com/photos/zZQz_RZxJCE",
+         "https://unsplash.com/photos/jtKoHDO-ihg",
+         "https://unsplash.com/photos/eH63NkYWRTI"
+      ]
+   },
+   {
+      "id": "6",
+      "name": "Morocco",
+      "Official_language": "Arabic",
+      "currency": "Dirham",
+      "population": 37697009,
+      "capital_city": "Rabat",
+      "car_side": "Right Hand",
+      "flag": "https://cdn.countryflags.com/thumbs/morocco/flag-400.png",
+      "capital_city_pic": "https://rb.gy/8vfgl",
+      "gallery":[
+         "https://unsplash.com/photos/NncAbldgViA",
+         "https://unsplash.com/photos/VqouWpsuziE",
+         "https://unsplash.com/photos/TYHyrF56Gys",
+         "https://unsplash.com/photos/knB5iCogf5Q",
+         "https://unsplash.com/photos/GETgyoy7BZA",
+         "https://unsplash.com/photos/NaY693XXXpY",
+         "https://unsplash.com/photos/6O8L1xeCK_w"
+      ]
+   }
+
+  ],
+  "users":[
+      {
+          "id": 1,
+          "email": "you@test.com"
+      },
+      {
+          "id": 2,
+          "email": "me@test.com"
+      }
   ]
+
 }
